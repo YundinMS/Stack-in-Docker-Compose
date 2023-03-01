@@ -3,3 +3,5 @@
 Это готовый Docker-Compose, для запуска стэка, Prometheus, Node-Exporter, Grafana, с подготовленным ботом
 
 Инструкция: 
+
+устанавливаем Docker&docker-compose
